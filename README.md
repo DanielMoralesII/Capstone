@@ -27,37 +27,41 @@ How does a SCI injury survivor's milestones compare at injury vs post injury? Do
 
 ## Normalizing the Data
 The dataset I selected consisted of years from 1972 through 2021. 
-I selected to work with all data from all years.
+I selected to work with all data over a thirty year period.
 
-The database analyzed contained three datasets: Form I which contained At Injury information, Form II which contained post injury information ranging from 1 year up to 30+ years after injury and Record Status, which contains records of survivor's who have passed away, their date of death and cause of death.
+The database analyzed contained three datasets: Form I which contained at injury information, Form II which contained post injury information ranging from 1 year up to 30+ years after injury, and Record Status, which contains records of survivor's who have passed away, their date of death and cause of death.
 
 I then created multiple dataframes per data question and narrowed down to the values that I wanted to use for my analysis. 
 
 ## Problems and Hurdles
-It took a considerable amount of time to review and clean all three datasets. Figuring out how to extract, organize and aggregate the information over a 30-year period took a lot of considerable though and trial and error.
+It took a considerable amount of time to review and clean all three datasets. Figuring out how to extract, organize and aggregate the information over a 30-year period took a lot of considerable thought and trial and error.
 
 ## Technologies Used
 1) Python: Matplotlib / NumPy / Pandas / Seaborn - for exploration, normalizing and aggregation of the dataset
-2) Power Bi - for creating interactive dashboard
-3) PowerPoint - for introduction of Project
+2) Power Bi - for project presentation
 ## Data Sources
-To answer the above questions I used the following sources to collect datasets for my analysis
+To answer the above questions I used the following sources to collect datasets for my analysis:
 1) National Spinal Cord Injury Statistical Center
 https://www.nscisc.uab.edu/Research/NSCISC_DatabasePublicUse
 2) Centers for Disease Control and Prevention, "Life Expectancy Dropped for the Second Year in a Row in 2021"
 https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/20220831.htm
 ## Conclusion
-Survivors still go on to pursue higher education, strive to maintain careers, get married and have children. 
 
-Post injury, SCI survivors post high school degrees obtained increased by 50.45%. 
+The average age of spinal cord injury is 35.93 years, a formidable time in a person's life.
 
-Survivors continue to and start careers after their injury. Though, based on the analysis, maintaining that career could be difficult, but is still possible.
+As of 2021, the average life expectancy of a SCI survivor was 64.30 years, compared to the overall US life expectancy of 76.33.
+
+Survivors do not let their injury stop them from continuing to pursue higher education. Post injury, post high school degrees obtained increased by 50.45%.
+
+Maintaining a working career as a SCI survivor could be difficult but is still possible. 
 
 Survivors are still getting married, but divorces grew at over three times the marriage rate.
 
-Survivors continue to have children with the child births increasing 9.6% after injury.
+Survivors continue to have children, with child births increasing 9.6% after injury.
 
-The data analysis shows that it can be concluded that compared to injury versus before injury, SCI survivors do not allow their injury to stop them from living their lives to the fullest.
+It can be concluded from this data analysis that compared to at injury versus before injury, SCI survivors do not allow their injury to stop them from living their lives to the fullest.
+
+Survivors still go on to pursue higher education, strive to maintain careers, get married and have children. 
 
 It is very inspiring to see that my mother's journey was not an exception but the norm. I hope this data can give hope to other survivors that life does not stop at injury.
 
